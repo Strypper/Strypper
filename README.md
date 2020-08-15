@@ -25,3 +25,14 @@ P/S: also a designer
 
 <img align="center" alt="dotNET" src="https://i.imgur.com/tS0O7Ih.png" />
 </div>
+
+**Me and .NET 5:**
+
+- 💻 I’m currently working on Cloud 🌩 Native UI Desktop and Mobile all with.NET techs
+- 🌱 I’m strongly believe in Native UI that have better experience than the Web
+- 👯 I’m looking to move to the Apple echo system for exploring Catalyst
+- 👌 Yo! Uno Platform is lit 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+- 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
+- 📫 How to reach me: FutureWingsStrypper@outlook.com;
+
+
