@@ -1,6 +1,6 @@
 ### Hey friends, The name is: [Strypper Vandel Jason!](https://twitter.com/Strypper2) 🔥🔥🔥🔥
-<div align="center">
 <img height="200" width="200" align="center" src="https://i.imgur.com/h9tIJpf.jpg"/>
+<div align="center">
 <i>Follow me on Socials:</i><br>
   
 <a href="https://www.facebook.com/StrypperJasonOCG" target="_blank">
