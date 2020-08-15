@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" src="https://i.imgur.com/tS0O7Ih.png" />
+<img align="center" alt="dotNET" src="https://i.imgur.com/tS0O7Ih.png" />
