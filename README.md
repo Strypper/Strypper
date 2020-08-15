@@ -1,5 +1,6 @@
 ### Hey friends, The name is: [Strypper Vandel Jason!](https://twitter.com/Strypper2) 🔥🔥🔥🔥
 <div align="center">
+<img height="200" width="200" align="center" src="https://i.imgur.com/h9tIJpf.jpg"/><br/>
 <i>Follow me on Socials:</i><br>
   
 <a href="https://www.facebook.com/StrypperJasonOCG" target="_blank">
@@ -17,7 +18,7 @@ P/S: also a designer
 
 **The ToTechs built to serve and last 🛠🔧⚗🧪🔬**
 
-<img height="200" width="200" align="center" src="https://i.imgur.com/h9tIJpf.jpg"/>
+
 
 **.NET 5 WILL RULE THE CLOUD**
 
