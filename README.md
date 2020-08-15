@@ -20,6 +20,7 @@ I'm Fullstack .NET developer. Use .NET to power 🚀🚀🚀🚀🚀 EVERYTHING!
 P/S: also a designer
 
 <div align="center">
+
 **.NET 5 WILL RULE THE CLOUD**
 
 <img align="center" alt="dotNET" src="https://i.imgur.com/tS0O7Ih.png" />
