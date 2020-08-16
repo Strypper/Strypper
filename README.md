@@ -34,6 +34,7 @@ P/S: also a designer
 <code><img height="50" src="https://i.imgur.com/eVnZx9G.png"></code>
 <code><img height="50" src="https://i.imgur.com/auI785M.png"></code>
 <code><img height="50" src="https://i.imgur.com/tj5mt6t.png"></code>
+<img align="right" alt="dotNET" src="https://media.giphy.com/media/Q5uUxKNH2nxgsJ12wd/giphy.gif" />
 
 - 💻 I’m currently working on Cloud 🌩 Native UI Desktop and Mobile all with.NET techs
 - 🌱 I’m strongly believe in Native UI that have better experience than the Web
@@ -42,4 +43,3 @@ P/S: also a designer
 - 👌 Yo! Uno Platform is lit 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 - 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
 - 📫 How to reach me: FutureWingsStrypper@outlook.com;
-<img align="right" alt="dotNET" src="https://media.giphy.com/media/Q5uUxKNH2nxgsJ12wd/giphy.gif" />
