@@ -25,6 +25,7 @@ P/S: also a designer
 
 <img align="center" alt="dotNET" src="https://i.imgur.com/tS0O7Ih.png" />
 </div>
+<br/>
 
 **Me and .NET 5:**
 
@@ -40,6 +41,6 @@ P/S: also a designer
 - 🌱 I’m strongly believe in Native UI that have better experience than the Web
 - 🖥📱 I nailed All the .NET UI: Blazor, Uno, UWP, WPF, Xamarin (EWWW NO WINFORM)
 - 👯 I’m looking to move to the Apple echo system for exploring Catalyst
-- 👌 Yo! Uno Platform is lit 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+- 🎮🕹 Yo! I'm making on game engine for 3d support on UWP 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 - 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
 - 📫 How to reach me: FutureWingsStrypper@outlook.com;
