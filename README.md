@@ -43,4 +43,4 @@ P/S: also a designer
 - 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
 - 📫 How to reach me: FutureWingsStrypper@outlook.com;
 
-<img align="left" alt="dotNET" src="https://media.giphy.com/media/Q5uUxKNH2nxgsJ12wd/giphy.gif" />
+<img align="right" alt="dotNET" src="https://media.giphy.com/media/Q5uUxKNH2nxgsJ12wd/giphy.gif" />
