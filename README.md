@@ -38,9 +38,10 @@ P/S: also a designer
 <img align="right" alt="dotNET" src="https://media.giphy.com/media/Q5uUxKNH2nxgsJ12wd/giphy.gif" />
 
 - 💻 I’m currently working on Cloud 🌩 Native UI Desktop and Mobile all with.NET techs
+- 🛰🛸 ASP.NET, SignalR, MSSQL, NodeJS, MQTTNET
 - 🌱 I’m strongly believe in Native UI that have better experience than the Web
 - 🖥📱 I nailed All the .NET UI: Blazor, Uno, UWP, WPF, Xamarin (EWWW NO WINFORM)
 - 👯 I’m looking to move to the Apple echo system for exploring Catalyst
-- 🎮🕹 Yo! I'm making on game engine for 3d support on UWP 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+- 🎮🕹 Yo! I'm making on game engine with DirectX12 API for 3d support on UWP 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 - 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
 - 📫 How to reach me: FutureWingsStrypper@outlook.com;
