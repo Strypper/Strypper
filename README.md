@@ -4,8 +4,6 @@
 **The ToTechs built to serve and last 🛠🔧⚗🧪🔬**
 
 <img height="200" width="200" align="center" src="https://i.imgur.com/h9tIJpf.jpg"/><br/>
-
-<img height="200" width="200" align="center" src="https://media.giphy.com/media/S6fu8lafIBGJYZ1b4o/giphy.gif"/><br/>
 <i>Follow me on Socials:</i><br>
   
 <a href="https://www.facebook.com/StrypperJasonOCG" target="_blank">
