@@ -15,7 +15,7 @@
 </a>
 </div>
 <br/>
-I'm Fullstack .NET developer. Use .NET to power 🚀🚀🚀🚀🚀 EVERYTHING!!!!!. I'm also the leader of the Totechs, we build Software and Hardware and bring them together to create meaningful robot 🤖🤖🤖🤖🤖🤖, give your PATHETIC more BOOST and reduce UNNECESSARY DUMMY TASKS. Let's build a brighter future together.
+I'm currently a software engineer mostly build in System Architect. My tools usually are .NET stuffs, I'm also leading my own personal reseach team, we are passionate about maknig our daily life better by bringing more automation in our life. We hope one day we will build an IoT echo system where you can worry free + surrounded by beautiful designs 
 <br/>
 P/S: also a designer
 
@@ -37,11 +37,11 @@ P/S: also a designer
 <code><img height="50" src="https://i.imgur.com/tj5mt6t.png"></code>
 <img align="right" alt="dotNET" src="https://media.giphy.com/media/Q5uUxKNH2nxgsJ12wd/giphy.gif" />
 
-- 💻 I’m currently working on Cloud 🌩 Native UI Desktop and Mobile all with.NET techs
-- 🛰🛸 ASP.NET, SignalR, MSSQL, NodeJS, MQTTNET
+- 💻 I’m currently working on Cloud 🌩 Native UI Desktop and Mobile all by using .NET
+- 🛰🛸 ASP.NET, SignalR, MSSQL, NodeJS, MQTTNET, OPENXML
 - 🌱 I’m strongly believe in Native UI that have better experience than the Web
 - 🖥📱 I nailed All the .NET UI: Blazor, Uno, UWP, WPF, Xamarin (EWWW NO WINFORM)
-- 👯 I’m looking to move to the Apple echo system for exploring Catalyst
-- 🎮🕹 Yo! I'm making on game engine with DirectX12 API for 3d support on UWP 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+- 👯 I WILL move to the Apple echo system soon for exploring Catalyst tech
+- 🎮🕹 Yo! I'm making own game engine with DirectX12 API for 3d support on UWP 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 - 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
 - 📫 How to reach me: FutureWingsStrypper@outlook.com;
