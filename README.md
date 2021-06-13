@@ -30,7 +30,7 @@ P/S: also a designer
 **Me and .NET 5:**
 
 <code><img height="50" src="https://i.imgur.com/deS4147.png"></code>
-<code><img height="50" src="https://i.imgur.com/WJ96Xtj.png"></code>
+<code><img height="50" src="https://i.imgur.com/LGDRTw5.png"></code>
 <code><img height="50" src="https://i.imgur.com/NEa7lIt.png"></code>
 <code><img height="50" src="https://i.imgur.com/eVnZx9G.png"></code>
 <code><img height="50" src="https://i.imgur.com/auI785M.png"></code>
