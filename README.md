@@ -3,7 +3,7 @@
 
 **The ToTechs built to serve and last 🛠🔧⚗🧪🔬**
 
-<img height="200" width="200" align="center" src="https://i.imgur.com/dRXryF7.mp4"/><br/>
+<img height="200" width="200" align="center" src="https://i.imgur.com/b1yJ7rs.png"/><br/>
 <i>Follow me on Socials:</i><br>
   
 <a href="https://www.facebook.com/StrypperJasonOCG" target="_blank">
