@@ -21,7 +21,7 @@ P/S: also a designer
 
 <div align="center">
 
-**.NET 5 WILL RULE THE CLOUD**
+**MOVING IN .NET 7**
 
 <img align="center" alt="dotNET" src="https://i.imgur.com/tS0O7Ih.png" />
 </div>
