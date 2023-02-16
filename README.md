@@ -15,7 +15,13 @@
 </a>
 </div>
 <br/>
-I'm currently a software engineer mostly build in System Architect. My tools usually are .NET stuffs, I'm also leading my own personal reseach team, we are passionate about maknig our daily life better by bringing more automation in our life. We hope one day we will build an IoT echo system where you can worry free + surrounded by beautiful designs 
+Hello, my name is Strypper and I am a .NET developer with over seven years of experience in building cross-platform applications using C#, XAML and .NET MAUI. I am passionate about creating modern, responsive and native UIs for Windows, Android, iOS, macOS and Samsung Tizen devices using the latest technologies and best practices of the .NET framework.
+
+I have worked on various projects ranging from productivity apps, social media apps, educational apps and more. I have used WinUI 3, Blazor Desktop, Xamarin.Forms, SkiaSharp and other .NET MAUI libraries to develop these applications. I have also used Visual Studio 2022, Visual Studio Code, Azure DevOps, GitHub Actions and Hot Reload as my development tools.
+
+I love learning new things and keeping up with the evolving .NET ecosystem. I am always eager to explore new features such as .NET 6,.NET MAUI Community Toolkit,.NET Hot Restart,.NET Multi-targeting Packs and more. I also enjoy sharing my knowledge and experience with other developers through blogs, podcasts and online communities.
+
+I am looking for a challenging and rewarding opportunity where I can apply my skills and passion as a .NET developer. I believe that I can bring value to your team by delivering high-quality software solutions that meet your business needs and exceed your expectations.
 <br/>
 P/S: also a designer
 
