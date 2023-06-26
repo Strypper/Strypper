@@ -15,13 +15,15 @@
 </a>
 </div>
 <br/>
-Hello, my name is Strypper and I am a .NET developer with over seven years of experience in building cross-platform applications using C#, XAML and .NET MAUI. I am passionate about creating modern, responsive and native UIs for Windows, Android, iOS, macOS and Samsung Tizen devices using the latest technologies and best practices of the .NET framework.
+Hi there, I’m Strypper, a .NET developer with a passion for creating cross-platform applications using C#, XAML, and .NET MAUI. I have over seven years of experience in developing modern, responsive, and native UIs for Windows, Android, iOS, macOS, and Samsung Tizen devices. I have also strong skills in ASP.NET Core with CLEAN ARCHITECTURE, vertical slice architecture, EF Core and Unit testing and integration testing.
 
-I have worked on various projects ranging from productivity apps, social media apps, educational apps and more. I have used WinUI 3, Blazor Desktop, Xamarin.Forms, SkiaSharp and other .NET MAUI libraries to develop these applications. I have also used Visual Studio 2022, Visual Studio Code, Azure DevOps, GitHub Actions and Hot Reload as my development tools.
+I have used ASP.NET Core to build scalable, secure and performant web applications and APIs using RESTful and GraphQL principles. I have followed the CLEAN ARCHITECTURE pattern to ensure separation of concerns, loose coupling and testability of my code. I have also used vertical slice architecture to organize my code by features rather than layers. I have used EF Core as my ORM tool to interact with various databases such as SQL Server and Cassandra. I have also written unit tests and integration tests using xUnit, Moq and FluentAssertions to ensure the quality and reliability of my code.
+
+I have worked on various projects in different domains such as productivity, social media, education, and more. I have used the latest technologies and best practices of the .NET framework such as WinUI 3, Blazor Desktop, Xamarin.Forms, SkiaSharp, and other .NET MAUI libraries. I have also used Visual Studio 2022, Visual Studio Code, Azure DevOps, GitHub Actions, and Hot Reload as my development tools.
 
 I love learning new things and keeping up with the evolving .NET ecosystem. I am always eager to explore new features such as .NET 6,.NET MAUI Community Toolkit,.NET Hot Restart,.NET Multi-targeting Packs and more. I also enjoy sharing my knowledge and experience with other developers through blogs, podcasts and online communities.
 
-I am looking for a challenging and rewarding opportunity where I can apply my skills and passion as a .NET developer. I believe that I can bring value to your team by delivering high-quality software solutions that meet your business needs and exceed your expectations.
+I am looking for a challenging and rewarding opportunity where I can apply my skills and passion as a .NET developer. I believe that I can bring value to your team by delivering high-quality software solutions that meet your business needs and exceed your expectations. P/S: I’m also a designer.
 <br/>
 P/S: also a designer
 
