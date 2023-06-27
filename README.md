@@ -23,7 +23,7 @@ I have worked on various projects in different domains such as productivity, soc
 
 I love learning new things and keeping up with the evolving .NET ecosystem. I am always eager to explore new features such as .NET 6,.NET MAUI Community Toolkit,.NET Hot Restart,.NET Multi-targeting Packs and more. I also enjoy sharing my knowledge and experience with other developers through blogs, podcasts and online communities.
 
-I am looking for a challenging and rewarding opportunity where I can apply my skills and passion as a .NET developer. I believe that I can bring value to your team by delivering high-quality software solutions that meet your business needs and exceed your expectations. P/S: I’m also a designer.
+I am looking for a challenging and rewarding opportunity where I can apply my skills and passion as a .NET developer. I believe that I can bring value to your team by delivering high-quality software solutions that meet your business needs and exceed your expectations.
 <br/>
 P/S: also a designer
 
