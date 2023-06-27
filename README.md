@@ -15,7 +15,7 @@
 </a>
 </div>
 <br/>
-Hi there, I’m Strypper, a .NET developer with a passion for creating cross-platform applications using C#, XAML, and .NET MAUI. I have over seven years of experience in developing modern, responsive, and native UIs for Windows, Android, iOS, macOS, and Samsung Tizen devices. I have also strong skills in ASP.NET Core with CLEAN ARCHITECTURE, vertical slice architecture, EF Core and Unit testing and integration testing.
+Hi there, I’m Strypper, a .NET developer with a passion for creating cross-platform applications using C#, XAML, and .NET MAUI. I have over seven years of experience in developing modern, responsive, and native UIs for Windows, Android, iOS, macOS, and Samsung Tizen devices. I have also strong skills in ASP.NET Core with CLEAN ARCHITECTURE, vertical slice architecture, EF Core, unit testing and integration testing.
 
 I have used ASP.NET Core to build scalable, secure and performant web applications and APIs using RESTful and GraphQL principles. I have followed the CLEAN ARCHITECTURE pattern to ensure separation of concerns, loose coupling and testability of my code. I have also used vertical slice architecture to organize my code by features rather than layers. I have used EF Core as my ORM tool to interact with SQL Server, Cassandra for storing record data types. I have also written unit tests and integration tests using xUnit, Moq and FluentAssertions to ensure the quality and reliability of my code.
 
