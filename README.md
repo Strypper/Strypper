@@ -29,13 +29,16 @@ P/S: also a designer
 
 <div align="center">
 
-**MOVING IN .NET 7**
+**MOVING IN .NET **
 
 <img align="center" alt="dotNET" src="https://i.imgur.com/tS0O7Ih.png" />
 </div>
 <br/>
 
-**Me and .NET 5:**
+**Me and .NET 8:**
+
+**MAUI SUX**
+**FUCK ALL OF YOU IN THE MAUI TEAM**
 
 <code><img height="50" src="https://i.imgur.com/deS4147.png"></code>
 <code><img height="50" src="https://i.imgur.com/LGDRTw5.png"></code>
