@@ -53,3 +53,6 @@ P/S: also a designer
 - 🎮🕹 Yo! I'm making own game engine with DirectX12 API for 3d support on UWP 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 - 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
 - 📫 How to reach me: FutureWingsStrypper@outlook.com;
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=strypper&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=strypper&langs_count=5&theme=tokyonight)]()
