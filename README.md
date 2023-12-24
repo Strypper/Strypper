@@ -57,5 +57,15 @@ P/S: also a designer
 - 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
 - 📫 How to reach me: FutureWingsStrypper@outlook.com;
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=strypper&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=strypper&langs_count=5&theme=tokyonight)]()
+
+<p align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Strypper/count.svg" />
+</p>
+
