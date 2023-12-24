@@ -48,6 +48,8 @@ P/S: also a designer
 <code><img height="50" src="https://i.imgur.com/tj5mt6t.png"></code>
 <img align="right" alt="dotNET" src="https://media.giphy.com/media/Q5uUxKNH2nxgsJ12wd/giphy.gif" />
 
+Visitor count <br/>
+<img src="https://profile-counter.glitch.me/Strypper/count.svg" />
 - 💻 I’m currently working on Cloud 🌩 Native UI Desktop and Mobile all by using .NET
 - 🛰🛸 ASP.NET, SignalR, MSSQL, NodeJS, MQTTNET, OPENXML
 - 🌱 I’m strongly believe in Native UI that have better experience than the Web
@@ -57,15 +59,4 @@ P/S: also a designer
 - 💬 Ask me about anything, I am happy to help (won't answer to some dumb shit);
 - 📫 How to reach me: FutureWingsStrypper@outlook.com;
 
-
-<p align="center"> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Strypper/count.svg" />
-</p>
 
