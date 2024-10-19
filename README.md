@@ -37,9 +37,6 @@ P/S: also a designer
 
 **Me and .NET 8:**
 
-**MAUI SUX**
-**FUCK ALL OF YOU IN THE MAUI TEAM**
-
 <code><img height="50" src="https://i.imgur.com/deS4147.png"></code>
 <code><img height="50" src="https://i.imgur.com/LGDRTw5.png"></code>
 <code><img height="50" src="https://i.imgur.com/NEa7lIt.png"></code>
